@@ -1,0 +1,16 @@
+body{
+	background: blue; 
+	color: white !important; 
+}
+.merah{
+	color: red ;
+	background-image: url("https://media.istockphoto.com/photos/abstract-grunge-dark-red-texture-background-picture-id1145460799?k=20&m=1145460799&s=170667a&w=0&h=Q_WeqSzlAla1nCdDYEwF4T7YaRsZxjHC9Fapnid2v3Y=");
+}
+.merah:hover{
+	color: yellow ;
+	}
+.hijau{
+	background-image: url("https://images.unsplash.com/photo-1601370690183-1c7796ecec61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JlZW4lMjB0ZXh0dXJlfGVufDB8fDB8fA%3D%3D&w=1000&q=80"); 
+	color: green;
+
+}
